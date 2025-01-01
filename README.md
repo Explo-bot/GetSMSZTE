@@ -39,3 +39,6 @@ The specific authentication method is determined by the `WEB_ATTR_IF_SUPPORT_SHA
 
 ## Class Description
 This program implements a client for ZTE router authentication and SMS management. It handles login procedures, SMS retrieval, and tracks messages' status using the Windows Registry for detecting changes in the SMS list.
+
+## Download executable
+You can download the executable [here](https://github.com/Explo-bot/GetSMSZTE/blob/e0ae70c936f00fc2085131207a740c1c2da05ed5/GetSMSZTE.exe)
